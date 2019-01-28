@@ -1,0 +1,1 @@
+﻿{"project": [null,null,[],[],[],[["Layout 1",2160,3840,false,"Event sheet 1",8873350371196689,[["Layer 0",0,8722530541249526,true,[255,255,255],false,1,1,1,false,false,1,0,0,[],[]]],[],[]]],[["Event sheet 1",[]]],[],"media/",false,1080,1920,4,true,true,true,"1.0.0.0",true,false,0,1,0,false,true,1,true,"New project",0,[]]}
